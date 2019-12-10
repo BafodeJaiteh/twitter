@@ -1,6 +1,3 @@
-![Post][Logo1]
-[Logo1]:http://www.twitterpourlesnuls.com/img/tweet.PNG
-
 #Présentation des différent types de post sur Twitter.
 
 ## 1/ Les Questions.
